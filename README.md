@@ -1,6 +1,17 @@
 # [XIN CHÀO! Tôi là Hà Ngọc Tuyết Như 👋](https://img.shields.io/badge/-Hà%20Ngọc%20Tuyết%20Như-%2348C9B0?style=for-the-badge&logo=codepen&logoColor=white)
 ### [💻 THỰC TẬP SINH CÔNG NGHỆ THÔNG TIN | DESIGNER](https://img.shields.io/badge/-Designer%20%26%20IT%20Intern-%23FFFFFF?style=for-the-badge)
+---
 
+### [🖼️ HÌNH CỦA TÔI](https://img.shields.io/badge/-My%20Interface-%2348C9B0?style=for-the-badge&logo=react&logoColor=white)
+
+<p align="center">
+  <a href="LINK_ĐẾN_HÌNH_ẢNH_GIAO_DIỆN_CỦA_BẠN_KHI_CLICK" target="_blank">
+    <img src="LINK_ĐẾN_HÌNH_ẢNH_ĐỂ_HIỂN_THỊ_Ở_ĐÂY" alt="Hình Giao Diện Của Tôi" width="100%" style="border-radius: 10px; border: 2px solid #48C9B0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
+  </a>
+</p>
+<p align="center"><em>Bấm vào hình để xem chi tiết hoặc tải lên hình mới (nếu có liên kết).</em></p>
+
+---
 *Đam mê kết hợp tư duy logic của một lập trình viên và khả năng sáng tạo hình ảnh/video vào các dự án thực tế. Đang hoàn thành chương trình học chuyên ngành Công nghệ thông tin / Kỹ thuật phần mềm, với nền tảng vững chắc về lập trình ứng dụng/web và sự yêu thích đặc biệt dành cho lĩnh vực thiết kế, chỉnh sửa đa phương tiện.*
 
 <p align="center">
