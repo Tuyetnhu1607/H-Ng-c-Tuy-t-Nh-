@@ -2,7 +2,7 @@
 ### [💻 THỰC TẬP SINH CÔNG NGHỆ THÔNG TIN | DESIGNER](https://img.shields.io/badge/-Designer%20%26%20IT%20Intern-%23FFFFFF?style=for-the-badge)
 ---
 
-### [🖼️ HÌNH CỦA TÔI](https://github.com/Tuyetnhu1607/H-Ng-c-Tuy-t-Nh-/blob/main/cv.png)
+### [🖼️ HÌNH CỦA TÔI](https://github.com/Tuyetnhu1607/H-Ng-c-Tuy-t-Nh-/blob/main/cv.png?raw=true)
 <p align="center">
   <a href="LINK_ĐẾN_HÌNH_ẢNH_GIAO_DIỆN_CỦA_BẠN_KHI_CLICK" target="_blank">
     <img src="LINK_ĐẾN_HÌNH_ẢNH_ĐỂ_HIỂN_THỊ_Ở_ĐÂY" alt="Hình Giao Diện Của Tôi" width="100%" style="border-radius: 10px; border: 2px solid #48C9B0; box-shadow: 0 4px 8px rgba(0,0,0,0.1);">
